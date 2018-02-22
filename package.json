@@ -1,0 +1,19 @@
+{
+  "name": "nodeupload",
+  "version": "1.0.0",
+  "description": "test file upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "upload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lactifgiftson/nodeupload.git"
+  },
+  "author": "Lactif Giftson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lactifgiftson/nodeupload/issues"
+  },
+  "homepage": "https://github.com/lactifgiftson/nodeupload#readme"
+}
