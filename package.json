@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lactifgiftson/nodeupload/issues"
   },
-  "homepage": "https://github.com/lactifgiftson/nodeupload#readme"
+  "homepage": "https://github.com/lactifgiftson/nodeupload#readme",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
 }
